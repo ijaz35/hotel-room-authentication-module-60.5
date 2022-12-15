@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Single Room",
+        "price": 150,
+        "img": "https://i.ibb.co/QpwPvSV/single-Room.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Double Room",
+        "price": 350,
+        "img": "https://i.ibb.co/72mcNc3/double-Room.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Family Room",
+        "price": 500,
+        "img": "https://i.ibb.co/MkrhKYs/family-Room.jpg"
+    }
+]
